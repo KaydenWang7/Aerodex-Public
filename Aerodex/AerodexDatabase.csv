@@ -1,0 +1,989 @@
+Airline,Airline Code,Model,Manufacturer,Type,Country
+Aegean Airlines,A3,A320,Airbus,P,Greece
+Aegean Airlines,A3,A321,Airbus,P,Greece
+Aegean Airlines,A3,A20N,Airbus,P,Greece
+Aegean Airlines,A3,A21N,Airbus,P,Greece
+Aer Lingus,EI,A320,Airbus,P,Ireland
+Aer Lingus,EI,A20N,Airbus,P,Ireland
+Aer Lingus,EI,A21N,Airbus,P,Ireland
+Aer Lingus,EI,A332,Airbus,P,Ireland
+Aer Lingus,EI,A333,Airbus,P,Ireland
+Aerolineas Argentinas,AR,A332,Airbus,P,Argentina
+Aerolineas Argentinas,AR,B737,Boeing,P,Argentina
+Aerolineas Argentinas,AR,B738,Boeing,P,Argentina
+Aerolineas Argentinas,AR,B38M,Boeing,P,Argentina
+Aerolineas Argentinas,AR,E190,Embraer,P,Argentina
+Aerolineas Argentinas,AR,E195,Embraer,P,Argentina
+Aeromexico,AM,B738,Boeing,P,Mexico
+Aeromexico,AM,B38M,Boeing,P,Mexico
+Aeromexico,AM,B39M,Boeing,P,Mexico
+Aeromexico,AM,B788,Boeing,P,Mexico
+Aeromexico,AM,B789,Boeing,P,Mexico
+Air Algerie,AH,A332,Airbus,P,Algeria
+Air Algerie,AH,A339,Airbus,P,Algeria
+Air Algerie,AH,A35K,Airbus,P,Algeria
+Air Algerie,AH,AT75,ATR,P,Algeria
+Air Algerie,AH,B736,Boeing,P,Algeria
+Air Algerie,AH,B737,Boeing,P,Algeria
+Air Algerie,AH,B738,Boeing,P,Algeria
+Air Algerie,AH,B39M,Boeing,P,Algeria
+Air Algerie,AH,B738,Boeing,F,Algeria
+Air Algerie,AH,C130,Lockheed,F,Algeria
+AirAsia,AK,A320,Airbus,P,Malaysia
+AirAsia,AK,A20N,Airbus,P,Malaysia
+AirAsia,AK,A21N,Airbus,P,Malaysia
+AirAsia,AK,A321,Airbus,F,Malaysia
+Air Astana,KC,A20N,Airbus,P,Kazakhstan
+Air Astana,KC,A321,Airbus,P,Kazakhstan
+Air Astana,KC,A21N,Airbus,P,Kazakhstan
+Air Astana,KC,B763,Boeing,P,Kazakhstan
+Air Astana,KC,E190,Embraer,P,Kazakhstan
+Air Austral,UU,BCS3,Airbus,P,France
+Air Austral,UU,B77W,Boeing,P,France
+Air Austral,UU,B788,Boeing,P,France
+airBaltic,BT,BCS3,Airbus,P,Latvia
+Air Belgium,KF,A332,Airbus,P,Belgium
+Air Belgium,KF,A339,Airbus,P,Belgium
+Air Belgium,KF,A332,Airbus,F,Belgium
+Air Belgium,KF,B748,Boeing,F,Belgium
+Air Belgium,KF,B77W,Boeing,F,Belgium
+Air Canada,AC,BCS3,Airbus,P,Canada
+Air Canada,AC,A319,Airbus,P,Canada
+Air Canada,AC,A320,Airbus,P,Canada
+Air Canada,AC,A321,Airbus,P,Canada
+Air Canada,AC,A333,Airbus,P,Canada
+Air Canada,AC,B38M,Boeing,P,Canada
+Air Canada,AC,B77L,Boeing,P,Canada
+Air Canada,AC,B77W,Boeing,P,Canada
+Air Canada,AC,B788,Boeing,P,Canada
+Air Canada,AC,B789,Boeing,P,Canada
+Air Caraibes,TX,A332,Airbus,P,France
+Air Caraibes,TX,A333,Airbus,P,France
+Air Caraibes,TX,A359,Airbus,P,France
+Air Caraibes,TX,A35K,Airbus,P,France
+Air Caraibes,TX,AT76,ATR,P,France
+Air Caraibes,TX,AT75,ATR,P,France
+Air China,CA,A319,Airbus,P,China
+Air China,CA,A320,Airbus,P,China
+Air China,CA,A20N,Airbus,P,China
+Air China,CA,A321,Airbus,P,China
+Air China,CA,A21N,Airbus,P,China
+Air China,CA,A332,Airbus,P,China
+Air China,CA,A333,Airbus,P,China
+Air China,CA,A359,Airbus,P,China
+Air China,CA,B737,Boeing,P,China
+Air China,CA,B738,Boeing,P,China
+Air China,CA,B78M,Boeing,P,China
+Air China,CA,B744,Boeing,P,China
+Air China,CA,B748,Boeing,P,China
+Air China,CA,B77W,Boeing,P,China
+Air China,CA,B789,Boeing,P,China
+Air China,CA,AJ27,Comac,P,China
+Air China,CA,A332,Airbus,F,China
+Air China,CA,B744,Boeing,F,China
+Air China,CA,B752,Boeing,F,China
+Air China,CA,B77L,Boeing,F,China
+Air Dolomiti,EN,E190,Embraer,P,Italy
+Air Dolomiti,EN,E195,Embraer,P,Italy
+Air Europa,UX,B738,Boeing,P,Spain
+Air Europa,UX,B788,Boeing,P,Spain
+Air Europa,UX,B789,Boeing,P,Spain
+Air France,AF,BCS3,Airbus,P,France
+Air France,AF,A318,Airbus,P,France
+Air France,AF,A319,Airbus,P,France
+Air France,AF,A320,Airbus,P,France
+Air France,AF,A321,Airbus,P,France
+Air France,AF,A332,Airbus,P,France
+Air France,AF,A359,Airbus,P,France
+Air France,AF,B772,Boeing,P,France
+Air France,AF,B77W,Boeing,P,France
+Air France,AF,B789,Boeing,P,France
+Air France,AF,B77L,Boeing,F,France
+Air India,AI,A319,Airbus,P,India
+Air India,AI,A320,Airbus,P,India
+Air India,AI,A20N,Airbus,P,India
+Air India,AI,A321,Airbus,P,India
+Air India,AI,A21N,Airbus,P,India
+Air India,AI,A359,Airbus,P,India
+Air India,AI,B77L,Boeing,P,India
+Air India,AI,B77W,Boeing,P,India
+Air India,AI,B788,Boeing,P,India
+Air India,AI,B789,Boeing,P,India
+Air Japan,NQ,B788,Boeing,P,Japan
+Airlink,4Z,E135,Embraer,P,South Africa
+Airlink,4Z,E140,Embraer,P,South Africa
+Airlink,4Z,E170,Embraer,P,South Africa
+Airlink,4Z,E175,Embraer,P,South Africa
+Airlink,4Z,E190,Embraer,P,South Africa
+Airlink,4Z,E195,Embraer,P,South Africa
+Air Macau,NX,A320,Airbus,P,Macao
+Air Macau,NX,A20N,Airbus,P,Macao
+Air Macau,NX,A321,Airbus,P,Macao
+Air Macau,NX,A21N,Airbus,P,Macao
+Air Macau,NX,A333,Airbus,P,Macao
+Air Mauritius,MK,A332,Airbus,P,Mauritius
+Air Mauritius,MK,A339,Airbus,P,Mauritius
+Air Mauritius,MK,A359,Airbus,P,Mauritius
+Air Mauritius,MK,AT75,ATR,P,Mauritius
+Air Mauritius,MK,AT76,ATR,P,Mauritius
+Air New Zealand,NZ,A320,Airbus,P,New Zealand
+Air New Zealand,NZ,A20N,Airbus,P,New Zealand
+Air New Zealand,NZ,A21N,Airbus,P,New Zealand
+Air New Zealand,NZ,AT76,ATR,P,New Zealand
+Air New Zealand,NZ,B77W,Boeing,P,New Zealand
+Air New Zealand,NZ,B789,Boeing,P,New Zealand
+Air New Zealand,NZ,DH8C,De Havilland,P,New Zealand
+Air Serbia,JU,A319,Airbus,P,Serbia
+Air Serbia,JU,A320,Airbus,P,Serbia
+Air Serbia,JU,A332,Airbus,P,Serbia
+Air Serbia,JU,B738,Boeing,P,Serbia
+Air Serbia,JU,AT76,ATR,P,Serbia
+Air Serbia,JU,E190,Embraer,P,Serbia
+Air Serbia,JU,E195,Embraer,P,Serbia
+Air Tahiti Nui,TN,B789,Boeing,P,France
+Air Transat,TS,A321,Airbus,P,Canada
+Air Transat,TS,A21N,Airbus,P,Canada
+Air Transat,TS,A332,Airbus,P,Canada
+Air Transat,TS,A333,Airbus,P,Canada
+Alaska Airlines,AS,B737,Boeing,P,United States
+Alaska Airlines,AS,B738,Boeing,P,United States
+Alaska Airlines,AS,B739,Boeing,P,United States
+Alaska Airlines,AS,B38M,Boeing,P,United States
+Alaska Airlines,AS,B39M,Boeing,P,United States
+Alaska Airlines,AS,E175,Embraer,P,United States
+Alaska Airlines,AS,B737,Boeing,F,United States
+Alaska Airlines,AS,B738,Boeing,F,United States
+Allegiant,G4,A319,Airbus,P,United States
+Allegiant,G4,A320,Airbus,P,United States
+American Airlines,AA,A319,Airbus,P,United States
+American Airlines,AA,A320,Airbus,P,United States
+American Airlines,AA,A321,Airbus,P,United States
+American Airlines,AA,A21N,Airbus,P,United States
+American Airlines,AA,B738,Boeing,P,United States
+American Airlines,AA,B38M,Boeing,P,United States
+American Airlines,AA,B772,Boeing,P,United States
+American Airlines,AA,B77W,Boeing,P,United States
+American Airlines,AA,B788,Boeing,P,United States
+American Airlines,AA,B789,Boeing,P,United States
+American Airlines,AA,E145,Embraer,P,United States
+American Airlines,AA,E170,Embraer,P,United States
+American Airlines,AA,E175,Embraer,P,United States
+American Airlines,AA,CRJ2,Bombardier,P,United States
+American Airlines,AA,CRJ7,Bombardier,P,United States
+American Airlines,AA,CRJ9,Bombardier,P,United States
+ANA,NH,A20N,Airbus,P,Japan
+ANA,NH,A321,Airbus,P,Japan
+ANA,NH,A21N,Airbus,P,Japan
+ANA,NH,A388,Airbus,P,Japan
+ANA,NH,B738,Boeing,P,Japan
+ANA,NH,B38M,Boeing,P,Japan
+ANA,NH,B763,Boeing,P,Japan
+ANA,NH,B772,Boeing,P,Japan
+ANA,NH,B773,Boeing,P,Japan
+ANA,NH,B77W,Boeing,P,Japan
+ANA,NH,B788,Boeing,P,Japan
+ANA,NH,B789,Boeing,P,Japan
+ANA,NH,B78X,Boeing,P,Japan
+ANA,NH,B763,Boeing,F,Japan
+ANA,NH,B77L,Boeing,F,Japan
+Asiana Airlines,OZ,A321,Airbus,P,South Korea
+Asiana Airlines,OZ,A21N,Airbus,P,South Korea
+Asiana Airlines,OZ,A333,Airbus,P,South Korea
+Asiana Airlines,OZ,A359,Airbus,P,South Korea
+Asiana Airlines,OZ,A388,Airbus,P,South Korea
+Asiana Airlines,OZ,B763,Boeing,P,South Korea
+Asiana Airlines,OZ,B772,Boeing,P,South Korea
+Asiana Airlines,OZ,B744,Boeing,F,South Korea
+Asiana Airlines,OZ,B763,Boeing,F,South Korea
+Austrian Airlines,OS,A320,Airbus,P,Austria
+Austrian Airlines,OS,A20N,Airbus,P,Austria
+Austrian Airlines,OS,A321,Airbus,P,Austria
+Austrian Airlines,OS,B763,Boeing,P,Austria
+Austrian Airlines,OS,B772,Boeing,P,Austria
+Austrian Airlines,OS,B789,Boeing,P,Austria
+Austrian Airlines,OS,E195,Embraer,P,Austria
+Avianca,AV,A319,Airbus,P,Colombia
+Avianca,AV,A320,Airbus,P,Colombia
+Avianca,AV,A20N,Airbus,P,Colombia
+Avianca,AV,B788,Boeing,P,Colombia
+Azerbaijan Airlines,J2,A319,Airbus,P,Azerbaijan
+Azerbaijan Airlines,J2,A320,Airbus,P,Azerbaijan
+Azerbaijan Airlines,J2,A20N,Airbus,P,Azerbaijan
+Azerbaijan Airlines,J2,A345,Airbus,P,Azerbaijan
+Azerbaijan Airlines,J2,B752,Boeing,P,Azerbaijan
+Azerbaijan Airlines,J2,B763,Boeing,P,Azerbaijan
+Azerbaijan Airlines,J2,B788,Boeing,P,Azerbaijan
+Azerbaijan Airlines,J2,E190,Embraer,P,Azerbaijan
+Azul,AD,A20N,Airbus,P,Brazil
+Azul,AD,A21N,Airbus,P,Brazil
+Azul,AD,A332,Airbus,P,Brazil
+Azul,AD,A339,Airbus,P,Brazil
+Azul,AD,AT76,ATR,P,Brazil
+Azul,AD,E195,Embraer,P,Brazil
+Azul,AD,E295,Embraer,P,Brazil
+Azul,AD,B734,Boeing,F,Brazil
+Bangkok Airways,PG,A319,Airbus,P,Thailand
+Bangkok Airways,PG,A320,Airbus,P,Thailand
+Bangkok Airways,PG,AT76,ATR,P,Thailand
+Batik Air,ID,A320,Airbus,P,Indonesia
+Batik Air,ID,A20N,Airbus,P,Indonesia
+Batik Air,ID,A21N,Airbus,P,Indonesia
+Batik Air,ID,A333,Airbus,P,Indonesia
+Batik Air,ID,B738,Boeing,P,Indonesia
+Binter Canarias,NT,AT75,ATR,P,Spain
+Binter Canarias,NT,AT76,ATR,P,Spain
+Binter Canarias,NT,E295,Embraer,P,Spain
+Blue Islands,SI,AT75,ATR,P,United Kingdom
+Boliviana de Aviacion,OB,A332,Airbus,P,Bolivia
+Boliviana de Aviacion,OB,B733,Boeing,P,Bolivia
+Boliviana de Aviacion,OB,B737,Boeing,P,Bolivia
+Boliviana de Aviacion,OB,B738,Boeing,P,Bolivia
+Boliviana de Aviacion,OB,B763,Boeing,P,Bolivia
+Boliviana de Aviacion,OB,CRJ2,Bombardier,P,Bolivia
+Breeze Airways,MX,BCS3,Airbus,P,United States
+Breeze Airways,MX,E190,Embraer,P,United States
+Breeze Airways,MX,E195,Embraer,P,United States
+British Airways,BA,A319,Airbus,P,United Kingdom
+British Airways,BA,A320,Airbus,P,United Kingdom
+British Airways,BA,A20N,Airbus,P,United Kingdom
+British Airways,BA,A21N,Airbus,P,United Kingdom
+British Airways,BA,A35K,Airbus,P,United Kingdom
+British Airways,BA,A388,Airbus,P,United Kingdom
+British Airways,BA,B772,Boeing,P,United Kingdom
+British Airways,BA,B77W,Boeing,P,United Kingdom
+British Airways,BA,B788,Boeing,P,United Kingdom
+British Airways,BA,B789,Boeing,P,United Kingdom
+British Airways,BA,B78X,Boeing,P,United Kingdom
+Brussels Airlines,SN,A319,Airbus,P,Belgium
+Brussels Airlines,SN,A320,Airbus,P,Belgium
+Brussels Airlines,SN,A20N,Airbus,P,Belgium
+Brussels Airlines,SN,A333,Airbus,P,Belgium
+Canadian North,7F,AT43,ATR,P,Canada
+Canadian North,7F,AT45,ATR,P,Canada
+Canadian North,7F,AT75,ATR,P,Canada
+Canadian North,7F,B733,Boeing,P,Canada
+Canadian North,7F,B734,Boeing,P,Canada
+Canadian North,7F,B737,Boeing,P,Canada
+Caribbean Airlines,BW,AT76,ATR,P,Trinidad and Tobago
+Caribbean Airlines,BW,B38M,Boeing,P,Trinidad and Tobago
+Caribbean Airlines,BW,E175,Embraer,P,Trinidad and Tobago
+Caribbean Airlines,BW,B738,Boeing,F,Trinidad and Tobago
+Caribbean Airlines,BW,AT76,ATR,F,Trinidad and Tobago
+Cathay Pacific,CX,A21N,Airbus,P,Hong Kong
+Cathay Pacific,CX,A333,Airbus,P,Hong Kong
+Cathay Pacific,CX,A359,Airbus,P,Hong Kong
+Cathay Pacific,CX,A35K,Airbus,P,Hong Kong
+Cathay Pacific,CX,B773,Boeing,P,Hong Kong
+Cathay Pacific,CX,B77W,Boeing,P,Hong Kong
+Cathay Pacific,CX,B744,Boeing,F,Hong Kong
+Cathay Pacific,CX,B748,Boeing,F,Hong Kong
+Cayman Airways,KX,B38M,Boeing,P,Cayman Islands
+Cayman Airways,KX,DHC6,De Havilland,P,Cayman Islands
+Cayman Airways,KX,SF34,Saab,P,Cayman Islands
+Cebu Pacific,5J,A320,Airbus,P,Philippines
+Cebu Pacific,5J,A20N,Airbus,P,Philippines
+Cebu Pacific,5J,A321,Airbus,P,Philippines
+Cebu Pacific,5J,A21N,Airbus,P,Philippines
+Cebu Pacific,5J,A339,Airbus,P,Philippines
+China Airlines,CI,A21N,Airbus,P,Taiwan
+China Airlines,CI,A333,Airbus,P,Taiwan
+China Airlines,CI,A359,Airbus,P,Taiwan
+China Airlines,CI,B738,Boeing,P,Taiwan
+China Airlines,CI,B77W,Boeing,P,Taiwan
+China Airlines,CI,B744,Boeing,F,Taiwan
+China Airlines,CI,B77L,Boeing,F,Taiwan
+China Eastern,MU,A319,Airbus,P,China
+China Eastern,MU,A320,Airbus,P,China
+China Eastern,MU,A20N,Airbus,P,China
+China Eastern,MU,A321,Airbus,P,China
+China Eastern,MU,A332,Airbus,P,China
+China Eastern,MU,A333,Airbus,P,China
+China Eastern,MU,A359,Airbus,P,China
+China Eastern,MU,B737,Boeing,P,China
+China Eastern,MU,B738,Boeing,P,China
+China Eastern,MU,B38M,Boeing,P,China
+China Eastern,MU,B77W,Boeing,P,China
+China Eastern,MU,B789,Boeing,P,China
+China Eastern,MU,C919,Comac,P,China
+China Eastern,MU,B77L,Boeing,F,China
+China Southern,CZ,A319,Airbus,P,China
+China Southern,CZ,A19N,Airbus,P,China
+China Southern,CZ,A320,Airbus,P,China
+China Southern,CZ,A20N,Airbus,P,China
+China Southern,CZ,A321,Airbus,P,China
+China Southern,CZ,A21N,Airbus,P,China
+China Southern,CZ,A332,Airbus,P,China
+China Southern,CZ,A333,Airbus,P,China
+China Southern,CZ,A359,Airbus,P,China
+China Southern,CZ,B737,Boeing,P,China
+China Southern,CZ,B738,Boeing,P,China
+China Southern,CZ,B38M,Boeing,P,China
+China Southern,CZ,B77W,Boeing,P,China
+China Southern,CZ,B788,Boeing,P,China
+China Southern,CZ,B789,Boeing,P,China
+China Southern,CZ,AJ27,Comac,P,China
+China Southern,CZ,B77L,Boeing,F,China
+Condor,DE,A320,Airbus,P,Germany
+Condor,DE,A20N,Airbus,P,Germany
+Condor,DE,A321,Airbus,P,Germany
+Condor,DE,A21N,Airbus,P,Germany
+Condor,DE,A339,Airbus,P,Germany
+Condor,DE,B753,Boeing,P,Germany
+Copa Airlines,CM,B737,Boeing,P,Panama
+Copa Airlines,CM,B738,Boeing,P,Panama
+Copa Airlines,CM,B38M,Boeing,P,Panama
+Copa Airlines,CM,B39M,Boeing,P,Panama
+Copa Airlines,CM,B738,Boeing,F,Panama
+Corsair International,SS,A333,Airbus,P,France
+Corsair International,SS,A339,Airbus,P,France
+Croatia Airlines,OU,BCS1,Airbus,P,Croatia
+Croatia Airlines,OU,BCS3,Airbus,P,Croatia
+Croatia Airlines,OU,A319,Airbus,P,Croatia
+Croatia Airlines,OU,A320,Airbus,P,Croatia
+Croatia Airlines,OU,DH8D,De Havilland,P,Croatia
+Cyprus Airways,CY,BCS3,Airbus,P,Cyprus
+Cyprus Airways,CY,A320,Airbus,P,Cyprus
+Delta Air Lines,DL,BCS1,Airbus,P,United States
+Delta Air Lines,DL,BCS3,Airbus,P,United States
+Delta Air Lines,DL,A319,Airbus,P,United States
+Delta Air Lines,DL,A320,Airbus,P,United States
+Delta Air Lines,DL,A321,Airbus,P,United States
+Delta Air Lines,DL,A21N,Airbus,P,United States
+Delta Air Lines,DL,A332,Airbus,P,United States
+Delta Air Lines,DL,A333,Airbus,P,United States
+Delta Air Lines,DL,A339,Airbus,P,United States
+Delta Air Lines,DL,A359,Airbus,P,United States
+Delta Air Lines,DL,B712,Boeing,P,United States
+Delta Air Lines,DL,B738,Boeing,P,United States
+Delta Air Lines,DL,B739,Boeing,P,United States
+Delta Air Lines,DL,B752,Boeing,P,United States
+Delta Air Lines,DL,B753,Boeing,P,United States
+Delta Air Lines,DL,B763,Boeing,P,United States
+Delta Air Lines,DL,B764,Boeing,P,United States
+Discover Airlines,4Y,A320,Airbus,P,Germany
+Discover Airlines,4Y,A332,Airbus,P,Germany
+Discover Airlines,4Y,A333,Airbus,P,Germany
+EasyJet,U2,A319,Airbus,P,United Kingdom
+EasyJet,U2,A320,Airbus,P,United Kingdom
+EasyJet,U2,A20N,Airbus,P,United Kingdom
+EasyJet,U2,A21N,Airbus,P,United Kingdom
+Edelweiss,WK,A320,Airbus,P,Switzerland
+Edelweiss,WK,A343,Airbus,P,Switzerland
+Edelweiss,WK,A359,Airbus,P,Switzerland
+Egyptair,MS,BCS3,Airbus,P,Egypt
+Egyptair,MS,A320,Airbus,P,Egypt
+Egyptair,MS,A20N,Airbus,P,Egypt
+Egyptair,MS,A21N,Airbus,P,Egypt
+Egyptair,MS,A332,Airbus,P,Egypt
+Egyptair,MS,A333,Airbus,P,Egypt
+Egyptair,MS,A359,Airbus,P,Egypt
+Egyptair,MS,B738,Boeing,P,Egypt
+Egyptair,MS,B77W,Boeing,P,Egypt
+Egyptair,MS,B789,Boeing,P,Egypt
+Egyptair,MS,A332,Airbus,F,Egypt
+Egyptair,MS,B738,Boeing,F,Egypt
+El Al,LY,B738,Boeing,P,Israel
+El Al,LY,B739,Boeing,P,Israel
+El Al,LY,B772,Boeing,P,Israel
+El Al,LY,B788,Boeing,P,Israel
+El Al,LY,B789,Boeing,P,Israel
+El Al,LY,B738,Boeing,F,Israel
+Emirates,EK,A388,Airbus,P,United Arab Emirates
+Emirates,EK,B77L,Boeing,P,United Arab Emirates
+Emirates,EK,B773,Boeing,P,United Arab Emirates
+Emirates,EK,B744,Boeing,F,United Arab Emirates
+Emirates,EK,B77L,Boeing,F,United Arab Emirates
+Ethiopian,ET,A359,Airbus,P,Ethiopia
+Ethiopian,ET,B737,Boeing,P,Ethiopia
+Ethiopian,ET,B738,Boeing,P,Ethiopia
+Ethiopian,ET,B38M,Boeing,P,Ethiopia
+Ethiopian,ET,B77L,Boeing,P,Ethiopia
+Ethiopian,ET,B77W,Boeing,P,Ethiopia
+Ethiopian,ET,B788,Boeing,P,Ethiopia
+Ethiopian,ET,B789,Boeing,P,Ethiopia
+Ethiopian,ET,DH8D,De Havilland,P,Ethiopia
+Ethiopian,ET,B738,Boeing,F,Ethiopia
+Ethiopian,ET,B763,Boeing,F,Ethiopia
+Ethiopian,ET,B77L,Boeing,F,Ethiopia
+Etihad Airways,EY,A320,Airbus,P,United Arab Emirates
+Etihad Airways,EY,A321,Airbus,P,United Arab Emirates
+Etihad Airways,EY,A21N,Airbus,P,United Arab Emirates
+Etihad Airways,EY,A35K,Airbus,P,United Arab Emirates
+Etihad Airways,EY,A388,Airbus,P,United Arab Emirates
+Etihad Airways,EY,B77W,Boeing,P,United Arab Emirates
+Etihad Airways,EY,B789,Boeing,P,United Arab Emirates
+Etihad Airways,EY,B78X,Boeing,P,United Arab Emirates
+Etihad Airways,EY,B77L,Boeing,F,United Arab Emirates
+Eurowings,EW,A319,Airbus,P,Germany
+Eurowings,EW,A320,Airbus,P,Germany
+Eurowings,EW,A20N,Airbus,P,Germany
+Eurowings,EW,A321,Airbus,P,Germany
+Eurowings,EW,A21N,Airbus,P,Germany
+Eva Air,BR,A321,Airbus,P,Taiwan
+Eva Air,BR,A333,Airbus,P,Taiwan
+Eva Air,BR,B77W,Boeing,P,Taiwan
+Eva Air,BR,B789,Boeing,P,Taiwan
+Eva Air,BR,B78X,Boeing,P,Taiwan
+Eva Air,BR,B77L,Boeing,F,Taiwan
+Fiji Airways,FJ,A332,Airbus,P,Fiji
+Fiji Airways,FJ,A333,Airbus,P,Fiji
+Fiji Airways,FJ,A359,Airbus,P,Fiji
+Fiji Airways,FJ,B738,Boeing,P,Fiji
+Fiji Airways,FJ,B38M,Boeing,P,Fiji
+Finnair,AY,A319,Airbus,P,Finland
+Finnair,AY,A320,Airbus,P,Finland
+Finnair,AY,A321,Airbus,P,Finland
+Finnair,AY,A333,Airbus,P,Finland
+Finnair,AY,A359,Airbus,P,Finland
+Finnair,AY,AT75,ATR,P,Finland
+Finnair,AY,E190,Embraer,P,Finland
+Flair Airlines,F8,B738,Boeing,P,Canada
+Flair Airlines,F8,B38M,Boeing,P,Canada
+Flydubai,FZ,B738,Boeing,P,UAE
+Flydubai,FZ,B38M,Boeing,P,UAE
+Flydubai,FZ,B39M,Boeing,P,UAE
+French Bee,BF,A359,Airbus,P,France
+French Bee,BF,A35K,Airbus,P,France
+Frontier Airlines,F9,A320,Airbus,P,United States
+Frontier Airlines,F9,A20N,Airbus,P,United States
+Frontier Airlines,F9,A321,Airbus,P,United States
+Frontier Airlines,F9,A21N,Airbus,P,United States
+Garuda Indonesia,GA,A332,Airbus,P,Indonesia
+Garuda Indonesia,GA,A333,Airbus,P,Indonesia
+Garuda Indonesia,GA,A339,Airbus,P,Indonesia
+Garuda Indonesia,GA,B738,Boeing,P,Indonesia
+Garuda Indonesia,GA,B77W,Boeing,P,Indonesia
+Garuda Indonesia,GA,A333,Airbus,F,Indonesia
+Garuda Indonesia,GA,B738,Boeing,F,Indonesia
+GOL,G3,B737,Boeing,P,Brazil
+GOL,G3,B738,Boeing,P,Brazil
+GOL,G3,B38M,Boeing,P,Brazil
+GOL,G3,B738,Boeing,F,Brazil
+Gulf Air,GF,A320,Airbus,P,Bahrain
+Gulf Air,GF,A20N,Airbus,P,Bahrain
+Gulf Air,GF,A321,Airbus,P,Bahrain
+Gulf Air,GF,A21N,Airbus,P,Bahrain
+Gulf Air,GF,B789,Boeing,P,Bahrain
+Hainan Airlines,HU,A20N,Airbus,P,China
+Hainan Airlines,HU,A332,Airbus,P,China
+Hainan Airlines,HU,A333,Airbus,P,China
+Hainan Airlines,HU,B738,Boeing,P,China
+Hainan Airlines,HU,B38M,Boeing,P,China
+Hainan Airlines,HU,B788,Boeing,P,China
+Hainan Airlines,HU,B789,Boeing,P,China
+Hawaiian Airlines,HA,A21N,Airbus,P,United States
+Hawaiian Airlines,HA,A332,Airbus,P,United States
+Hawaiian Airlines,HA,B712,Boeing,P,United States
+Hawaiian Airlines,HA,B789,Boeing,P,United States
+Helvetic Airways,2L,E190,Embraer,P,Switzerland
+Helvetic Airways,2L,E195,Embraer,P,Switzerland
+Helvetic Airways,2L,E290,Embraer,P,Switzerland
+Helvetic Airways,2L,E295,Embraer,P,Switzerland
+HK Express,UO,A320,Airbus,P,Hong Kong
+HK Express,UO,A20N,Airbus,P,Hong Kong
+HK Express,UO,A321,Airbus,P,Hong Kong
+HK Express,UO,A21N,Airbus,P,Hong Kong
+Hong Kong Airlines,HX,A320,Airbus,P,Hong Kong
+Hong Kong Airlines,HX,A321,Airbus,P,Hong Kong
+Hong Kong Airlines,HX,A332,Airbus,P,Hong Kong
+Hong Kong Airlines,HX,A333,Airbus,P,Hong Kong
+Hong Kong Airlines,HX,A332,Airbus,F,Hong Kong
+Iberia,IB,A319,Airbus,P,Spain
+Iberia,IB,A320,Airbus,P,Spain
+Iberia,IB,A20N,Airbus,P,Spain
+Iberia,IB,A321,Airbus,P,Spain
+Iberia,IB,A332,Airbus,P,Spain
+Iberia,IB,A333,Airbus,P,Spain
+Iberia,IB,A359,Airbus,P,Spain
+Icelandair,FI,B38M,Boeing,P,Iceland
+Icelandair,FI,B39M,Boeing,P,Iceland
+Icelandair,FI,B752,Boeing,P,Iceland
+Icelandair,FI,B753,Boeing,P,Iceland
+Icelandair,FI,B763,Boeing,P,Iceland
+Icelandair,FI,DH8B,De Havilland,P,Iceland
+Icelandair,FI,DH8D,De Havilland,P,Iceland
+Icelandair,FI,B752,Boeing,F,Iceland
+Icelandair,FI,B763,Boeing,F,Iceland
+IndiGo,6E,A320,Airbus,P,India
+IndiGo,6E,A20N,Airbus,P,India
+IndiGo,6E,A21N,Airbus,P,India
+IndiGo,6E,AT76,ATR,P,India
+IndiGo,6E,A321,Airbus,F,India
+ITA Airways,AZ,BCS1,Airbus,P,Italy
+ITA Airways,AZ,BCS3,Airbus,P,Italy
+ITA Airways,AZ,A319,Airbus,P,Italy
+ITA Airways,AZ,A321,Airbus,P,Italy
+ITA Airways,AZ,A20N,Airbus,P,Italy
+ITA Airways,AZ,A332,Airbus,P,Italy
+ITA Airways,AZ,A339,Airbus,P,Italy
+ITA Airways,AZ,A359,Airbus,P,Italy
+Japan Airlines,JL,A359,Airbus,P,Japan
+Japan Airlines,JL,A35K,Airbus,P,Japan
+Japan Airlines,JL,B738,Boeing,P,Japan
+Japan Airlines,JL,B763,Boeing,P,Japan
+Japan Airlines,JL,B77W,Boeing,P,Japan
+Japan Airlines,JL,B788,Boeing,P,Japan
+Japan Airlines,JL,B789,Boeing,P,Japan
+Japan Airlines,JL,B763,Boeing,F,Japan
+JetBlue Airways,B6,BCS3,Airbus,P,United States
+JetBlue Airways,B6,A320,Airbus,P,United States
+JetBlue Airways,B6,A321,Airbus,P,United States
+JetBlue Airways,B6,A21N,Airbus,P,United States
+JetBlue Airways,B6,E190,Embraer,P,United States
+Jetstar,JQ,A320,Airbus,P,Australia
+Jetstar,JQ,A321,Airbus,P,Australia
+Jetstar,JQ,A21N,Airbus,P,Australia
+Jetstar,JQ,B788,Boeing,P,Australia
+Jet2,LS,A321,Airbus,P,United Kingdom
+Jet2,LS,A21N,Airbus,P,United Kingdom
+Jet2,LS,B733,Boeing,P,United Kingdom
+Jet2,LS,B738,Boeing,P,United Kingdom
+Jet2,LS,B752,Boeing,P,United Kingdom
+JSX,XE,E135,Embraer,P,United States
+JSX,XE,E145,Embraer,P,United States
+Juneyao Air,HO,A320,Airbus,P,China
+Juneyao Air,HO,A20N,Airbus,P,China
+Juneyao Air,HO,A321,Airbus,P,China
+Juneyao Air,HO,A21N,Airbus,P,China
+Juneyao Air,HO,B789,Boeing,P,China
+Kenya Airways,KQ,B738,Boeing,P,Kenya
+Kenya Airways,KQ,B788,Boeing,P,Kenya
+Kenya Airways,KQ,E190,Embraer,P,Kenya
+Kenya Airways,KQ,B733,Boeing,F,Kenya
+Kenya Airways,KQ,B738,Boeing,F,Kenya
+KLM,KL,A21N,Airbus,P,Netherlands
+KLM,KL,A332,Airbus,P,Netherlands
+KLM,KL,A333,Airbus,P,Netherlands
+KLM,KL,A359,Airbus,P,Netherlands
+KLM,KL,B737,Boeing,P,Netherlands
+KLM,KL,B738,Boeing,P,Netherlands
+KLM,KL,B739,Boeing,P,Netherlands
+KLM,KL,B772,Boeing,P,Netherlands
+KLM,KL,B77W,Boeing,P,Netherlands
+KLM,KL,B789,Boeing,P,Netherlands
+KLM,KL,B78X,Boeing,P,Netherlands
+KLM,KL,E175,Embraer,P,Netherlands
+KLM,KL,E190,Embraer,P,Netherlands
+KLM,KL,E295,Embraer,P,Netherlands
+KLM,KL,B744,Boeing,F,Netherlands
+Korean Air,KE,BCS3,Airbus,P,South Korea
+Korean Air,KE,A21N,Airbus,P,South Korea
+Korean Air,KE,A332,Airbus,P,South Korea
+Korean Air,KE,A333,Airbus,P,South Korea
+Korean Air,KE,A388,Airbus,P,South Korea
+Korean Air,KE,B738,Boeing,P,South Korea
+Korean Air,KE,B739,Boeing,P,South Korea
+Korean Air,KE,B38M,Boeing,P,South Korea
+Korean Air,KE,B748,Boeing,P,South Korea
+Korean Air,KE,B772,Boeing,P,South Korea
+Korean Air,KE,B773,Boeing,P,South Korea
+Korean Air,KE,B77W,Boeing,P,South Korea
+Korean Air,KE,B789,Boeing,P,South Korea
+Korean Air,KE,B78X,Boeing,P,South Korea
+Korean Air,KE,B744,Boeing,F,South Korea
+Korean Air,KE,B748,Boeing,F,South Korea
+Korean Air,KE,B77L,Boeing,F,South Korea
+Kuwait Airways,KU,A320,Airbus,P,Kuwait
+Kuwait Airways,KU,A20N,Airbus,P,Kuwait
+Kuwait Airways,KU,A332,Airbus,P,Kuwait
+Kuwait Airways,KU,A338,Airbus,P,Kuwait
+Kuwait Airways,KU,B77W,Boeing,P,Kuwait
+La Compagnie,B0,A21N,Airbus,P,France
+LATAM,LA,A319,Airbus,P,Chile
+LATAM,LA,A320,Airbus,P,Chile
+LATAM,LA,A20N,Airbus,P,Chile
+LATAM,LA,A321,Airbus,P,Chile
+LATAM,LA,B763,Boeing,P,Chile
+LATAM,LA,B788,Boeing,P,Chile
+LATAM,LA,B789,Boeing,P,Chile
+LATAM,LA,B763,Boeing,F,Chile
+Level,LV,A332,Airbus,P,Spain and France
+Lion Air,JT,A333,Airbus,P,Indonesia
+Lion Air,JT,A339,Airbus,P,Indonesia
+Lion Air,JT,B738,Boeing,P,Indonesia
+Lion Air,JT,B739,Boeing,P,Indonesia
+Lion Air,JT,B39M,Boeing,P,Indonesia
+Loganair,LM,AT45,ATR,P,United Kingdom
+Loganair,LM,AT46,ATR,P,United Kingdom
+Loganair,LM,AT76,ATR,P,United Kingdom
+Loganair,LM,BN2P,Britten-Norman,P,United Kingdom
+Loganair,LM,DHC6,De Havilland,P,United Kingdom
+Loganair,LM,E145,Embraer,P,United Kingdom
+Loganair,LM,AT75,ATR,F,United Kingdom
+LOT,LO,A339,Airbus,P,Poland
+LOT,LO,B738,Boeing,P,Poland
+LOT,LO,B38M,Boeing,P,Poland
+LOT,LO,B788,Boeing,P,Poland
+LOT,LO,B789,Boeing,P,Poland
+LOT,LO,E170,Embraer,P,Poland
+LOT,LO,E175,Embraer,P,Poland
+LOT,LO,E190,Embraer,P,Poland
+LOT,LO,E195,Embraer,P,Poland
+LOT,LO,E295,Embraer,P,Poland
+Lufthansa,LH,A319,Airbus,P,Germany
+Lufthansa,LH,A320,Airbus,P,Germany
+Lufthansa,LH,A20N,Airbus,P,Germany
+Lufthansa,LH,A321,Airbus,P,Germany
+Lufthansa,LH,A21N,Airbus,P,Germany
+Lufthansa,LH,A333,Airbus,P,Germany
+Lufthansa,LH,A343,Airbus,P,Germany
+Lufthansa,LH,A346,Airbus,P,Germany
+Lufthansa,LH,A359,Airbus,P,Germany
+Lufthansa,LH,A388,Airbus,P,Germany
+Lufthansa,LH,B744,Boeing,P,Germany
+Lufthansa,LH,B748,Boeing,P,Germany
+Lufthansa,LH,B789,Boeing,P,Germany
+Lufthansa,LH,A321,Airbus,F,Germany
+Lufthansa,LH,B77L,Boeing,F,Germany
+Luxair,LG,B737,Boeing,P,Luxembourg
+Luxair,LG,B738,Boeing,P,Luxembourg
+Luxair,LG,B38M,Boeing,P,Luxembourg
+Luxair,LG,DH8D,De Havilland,P,Luxembourg
+Luxair,LG,E295,Embraer,P,Luxembourg
+Malaysia Airlines,MH,A332,Airbus,P,Malaysia
+Malaysia Airlines,MH,A333,Airbus,P,Malaysia
+Malaysia Airlines,MH,A359,Airbus,P,Malaysia
+Malaysia Airlines,MH,B738,Boeing,P,Malaysia
+Malaysia Airlines,MH,B38M,Boeing,P,Malaysia
+Malaysia Airlines,MH,A332,Airbus,F,Malaysia
+Middle East Airlines,ME,A320,Airbus,P,Lebanon
+Middle East Airlines,ME,A21N,Airbus,P,Lebanon
+Middle East Airlines,ME,A332,Airbus,P,Lebanon
+Mongolian Airlines,OM,B738,Boeing,P,Mongolia
+Mongolian Airlines,OM,B38M,Boeing,P,Mongolia
+Mongolian Airlines,OM,B763,Boeing,P,Mongolia
+Mongolian Airlines,OM,B789,Boeing,P,Mongolia
+Mongolian Airlines,OM,CRJ1,Bombardier,P,Mongolia
+Mongolian Airlines,OM,CRJ7,Bombardier,P,Mongolia
+Mongolian Airlines,OM,B752,Boeing,F,Mongolia
+Norse Atlantic Airways,N0,B789,Boeing,P,Norway
+Norwegian Air Shuttle,DY,B738,Boeing,P,Norway
+Norwegian Air Shuttle,DY,B38M,Boeing,P,Norway
+Oman Air,WY,B738,Boeing,P,Oman
+Oman Air,WY,B739,Boeing,P,Oman
+Oman Air,WY,B38M,Boeing,P,Oman
+Oman Air,WY,B788,Boeing,P,Oman
+Oman Air,WY,B789,Boeing,P,Oman
+Oman Air,WY,B738,Boeing,F,Oman
+Pegasus Airlines,PC,A320,Airbus,P,Turkey
+Pegasus Airlines,PC,A20N,Airbus,P,Turkey
+Pegasus Airlines,PC,A21N,Airbus,P,Turkey
+Pegasus Airlines,PC,B738,Boeing,P,Turkey
+Philippine Airlines,PR,A321,Airbus,P,Philippines
+Philippine Airlines,PR,A21N,Airbus,P,Philippines
+Philippine Airlines,PR,A333,Airbus,P,Philippines
+Philippine Airlines,PR,A359,Airbus,P,Philippines
+Philippine Airlines,PR,B77W,Boeing,P,Philippines
+PIA,PK,A320,Airbus,P,Pakistan
+PIA,PK,AT42,ATR,P,Pakistan
+PIA,PK,B772,Boeing,P,Pakistan
+PIA,PK,B77L,Boeing,P,Pakistan
+PIA,PK,B77W,Boeing,P,Pakistan
+Play,OG,A20N,Airbus,P,Iceland
+Play,OG,A21N,Airbus,P,Iceland
+Porter Airlines,PD,DH8D,De Havilland,P,Canada
+Porter Airlines,PD,E295,Embraer,P,Canada
+Qantas,QF,A332,Airbus,P,Australia
+Qantas,QF,A333,Airbus,P,Australia
+Qantas,QF,A388,Airbus,P,Australia
+Qantas,QF,B738,Boeing,P,Australia
+Qantas,QF,B789,Boeing,P,Australia
+Qantas,QF,A321,Airbus,F,Australia
+Qantas,QF,A332,Airbus,F,Australia
+Qantas,QF,B744,Boeing,F,Australia
+Qantas,QF,B463,British Aerospace,F,Australia
+Qatar Airways,QR,A320,Airbus,P,Qatar
+Qatar Airways,QR,A332,Airbus,P,Qatar
+Qatar Airways,QR,A333,Airbus,P,Qatar
+Qatar Airways,QR,A359,Airbus,P,Qatar
+Qatar Airways,QR,A35K,Airbus,P,Qatar
+Qatar Airways,QR,A388,Airbus,P,Qatar
+Qatar Airways,QR,B38M,Boeing,P,Qatar
+Qatar Airways,QR,B77L,Boeing,P,Qatar
+Qatar Airways,QR,B77W,Boeing,P,Qatar
+Qatar Airways,QR,B788,Boeing,P,Qatar
+Qatar Airways,QR,B789,Boeing,P,Qatar
+Qatar Airways,QR,B77L,Boeing,F,Qatar
+Rex Airlines,ZL,SF34,Saab,P,Australia
+Royal Air Maroc,AT,AT76,ATR,P,Morocco
+Royal Air Maroc,AT,B738,Boeing,P,Morocco
+Royal Air Maroc,AT,B38M,Boeing,P,Morocco
+Royal Air Maroc,AT,B788,Boeing,P,Morocco
+Royal Air Maroc,AT,B789,Boeing,P,Morocco
+Royal Air Maroc,AT,E190,Embraer,P,Morocco
+Royal Air Maroc,AT,B763,Boeing,F,Morocco
+Royal Brunei Airlines,BI,A20N,Airbus,P,Brunei
+Royal Brunei Airlines,BI,B788,Boeing,P,Brunei
+Royal Jordanian,RJ,A319,Airbus,P,Jordan
+Royal Jordanian,RJ,A320,Airbus,P,Jordan
+Royal Jordanian,RJ,A321,Airbus,P,Jordan
+Royal Jordanian,RJ,B788,Boeing,P,Jordan
+Royal Jordanian,RJ,E175,Embraer,P,Jordan
+Royal Jordanian,RJ,E195,Embraer,P,Jordan
+Royal Jordanian,RJ,E290,Embraer,P,Jordan
+Royal Jordanian,RJ,E295,Embraer,P,Jordan
+Royal Jordanian,RJ,A321,Airbus,F,Jordan
+RwandAir,WB,A332,Airbus,P,Rwanda
+RwandAir,WB,A333,Airbus,P,Rwanda
+RwandAir,WB,B737,Boeing,P,Rwanda
+RwandAir,WB,B738,Boeing,P,Rwanda
+RwandAir,WB,CRJ9,Bombardier,P,Rwanda
+RwandAir,WB,DH8D,De Havilland,P,Rwanda
+RwandAir,WB,B738,Boeing,F,Rwanda
+Ryanair,FR,B738,Boeing,P,Ireland
+Ryanair,FR,B38M,Boeing,P,Ireland
+SAS,SK,A319,Airbus,P,Norway
+SAS,SK,A320,Airbus,P,Norway
+SAS,SK,A20N,Airbus,P,Norway
+SAS,SK,A333,Airbus,P,Norway
+SAS,SK,A359,Airbus,P,Norway
+SAS,SK,B737,Boeing,P,Norway
+Saudia Airlines,SV,A320,Airbus,P,Saudi Arabia
+Saudia Airlines,SV,A321,Airbus,P,Saudi Arabia
+Saudia Airlines,SV,A21N,Airbus,P,Saudi Arabia
+Saudia Airlines,SV,A333,Airbus,P,Saudi Arabia
+Saudia Airlines,SV,B744,Boeing,P,Saudi Arabia
+Saudia Airlines,SV,B772,Boeing,P,Saudi Arabia
+Saudia Airlines,SV,B77W,Boeing,P,Saudi Arabia
+Saudia Airlines,SV,B789,Boeing,P,Saudi Arabia
+Saudia Airlines,SV,B78X,Boeing,P,Saudi Arabia
+Saudia Airlines,SV,B744,Boeing,F,Saudi Arabia
+Saudia Airlines,SV,B77L,Boeing,F,Saudi Arabia
+Scoot,TR,A320,Airbus,P,Singapore
+Scoot,TR,A20N,Airbus,P,Singapore
+Scoot,TR,A21N,Airbus,P,Singapore
+Scoot,TR,B788,Boeing,P,Singapore
+Scoot,TR,B789,Boeing,P,Singapore
+Scoot,TR,E290,Embraer,P,Singapore
+Shanghai Airlines,FM,B737,Boeing,P,China
+Shanghai Airlines,FM,B738,Boeing,P,China
+Shanghai Airlines,FM,B38M,Boeing,P,China
+Shanghai Airlines,FM,B789,Boeing,P,China
+Shenzhen Airlines,ZH,A319,Airbus,P,China
+Shenzhen Airlines,ZH,A320,Airbus,P,China
+Shenzhen Airlines,ZH,A20N,Airbus,P,China
+Shenzhen Airlines,ZH,A21N,Airbus,P,China
+Shenzhen Airlines,ZH,A333,Airbus,P,China
+Shenzhen Airlines,ZH,B738,Boeing,P,China
+Shenzhen Airlines,ZH,B38M,Boeing,P,China
+Skybus,SX,DHC6,De Havilland,P,United States
+Skybus,SX,BN2P,Britten-Norman,P,United States
+Singapore Airlines,SQ,A359,Airbus,P,Singapore
+Singapore Airlines,SQ,A388,Airbus,P,Singapore
+Singapore Airlines,SQ,B738,Boeing,P,Singapore
+Singapore Airlines,SQ,B38M,Boeing,P,Singapore
+Singapore Airlines,SQ,B77W,Boeing,P,Singapore
+Singapore Airlines,SQ,B78X,Boeing,P,Singapore
+Singapore Airlines,SQ,B744,Boeing,F,Singapore
+Singapore Airlines,SQ,B77L,Boeing,F,Singapore
+Smartwings,QS,B737,Boeing,P,Czech Republic
+Smartwings,QS,B738,Boeing,P,Czech Republic
+Smartwings,QS,B739,Boeing,P,Czech Republic
+Smartwings,QS,B38M,Boeing,P,Czech Republic
+South African Airways,SA,A320,Airbus,P,South Africa
+South African Airways,SA,A333,Airbus,P,South Africa
+South African Airways,SA,A343,Airbus,P,South Africa
+Southwest,WN,B737,Boeing,P,United States
+Southwest,WN,B738,Boeing,P,United States
+Southwest,WN,B38M,Boeing,P,United States
+Spirit Airlines,NK,A319,Airbus,P,United States
+Spirit Airlines,NK,A320,Airbus,P,United States
+Spirit Airlines,NK,A20N,Airbus,P,United States
+Spirit Airlines,NK,A321,Airbus,P,United States
+Spirit Airlines,NK,A21N,Airbus,P,United States
+SriLankan Airlines,UL,A320,Airbus,P,Sri Lanka
+SriLankan Airlines,UL,A20N,Airbus,P,Sri Lanka
+SriLankan Airlines,UL,A21N,Airbus,P,Sri Lanka
+SriLankan Airlines,UL,A332,Airbus,P,Sri Lanka
+SriLankan Airlines,UL,A333,Airbus,P,Sri Lanka
+Starlux Airlines,JX,A21N,Airbus,P,Taiwan
+Starlux Airlines,JX,A339,Airbus,P,Taiwan
+Starlux Airlines,JX,A359,Airbus,P,Taiwan
+Sun Country Airlines,SY,B738,Boeing,P,United States
+SunExpress,XQ,A320,Airbus,P,Turkey
+SunExpress,XQ,B738,Boeing,P,Turkey
+SunExpress,XQ,B38M,Boeing,P,Turkey
+Sunwing Airlines,WG,B738,Boeing,P,Canada
+Sunwing Airlines,WG,B38M,Boeing,P,Canada
+Swiss,SR,BCS1,Airbus,P,Switzerland
+Swiss,SR,BCS3,Airbus,P,Switzerland
+Swiss,SR,A320,Airbus,P,Switzerland
+Swiss,SR,A20N,Airbus,P,Switzerland
+Swiss,SR,A321,Airbus,P,Switzerland
+Swiss,SR,A21N,Airbus,P,Switzerland
+Swiss,SR,A333,Airbus,P,Switzerland
+Swiss,SR,A343,Airbus,P,Switzerland
+Swiss,SR,B77W,Boeing,P,Switzerland
+TAP Air Portugal,TP,A319,Airbus,P,Portugal
+TAP Air Portugal,TP,A320,Airbus,P,Portugal
+TAP Air Portugal,TP,A20N,Airbus,P,Portugal
+TAP Air Portugal,TP,A321,Airbus,P,Portugal
+TAP Air Portugal,TP,A21N,Airbus,P,Portugal
+TAP Air Portugal,TP,A332,Airbus,P,Portugal
+TAP Air Portugal,TP,A339,Airbus,P,Portugal
+Tarom,RO,A318,Airbus,P,Romania
+Tarom,RO,AT75,ATR,P,Romania
+Tarom,RO,AT76,ATR,P,Romania
+Tarom,RO,B737,Boeing,P,Romania
+Tarom,RO,B738,Boeing,P,Romania
+Tarom,RO,B38M,Boeing,P,Romania
+Thai Airways,TG,A320,Airbus,P,Thailand
+Thai Airways,TG,A333,Airbus,P,Thailand
+Thai Airways,TG,A359,Airbus,P,Thailand
+Thai Airways,TG,B772,Boeing,P,Thailand
+Thai Airways,TG,B77W,Boeing,P,Thailand
+Thai Airways,TG,B788,Boeing,P,Thailand
+Thai Airways,TG,B789,Boeing,P,Thailand
+Thai Lion AIr,SL,B738,Boeing,P,Thailand
+Thai Lion AIr,SL,B739,Boeing,P,Thailand
+Transavia,HV,A21N,Airbus,P,Netherlands
+Transavia,HV,B737,Boeing,P,Netherlands
+Transavia,HV,B738,Boeing,P,Netherlands
+TUI,BY,B738,Boeing,P,United Kingdom
+TUI,BY,B38M,Boeing,P,United Kingdom
+TUI,BY,B788,Boeing,P,United Kingdom
+TUI,BY,B789,Boeing,P,United Kingdom
+Tunisair,TU,A319,Airbus,P,Tunisia
+Tunisair,TU,A320,Airbus,P,Tunisia
+Tunisair,TU,A20N,Airbus,P,Tunisia
+Tunisair,TU,A332,Airbus,P,Tunisia
+Tunisair,TU,B736,Boeing,P,Tunisia
+Turkish Airlines,TK,A319,Airbus,P,Turkey
+Turkish Airlines,TK,A320,Airbus,P,Turkey
+Turkish Airlines,TK,A321,Airbus,P,Turkey
+Turkish Airlines,TK,A21N,Airbus,P,Turkey
+Turkish Airlines,TK,A332,Airbus,P,Turkey
+Turkish Airlines,TK,A333,Airbus,P,Turkey
+Turkish Airlines,TK,A359,Airbus,P,Turkey
+Turkish Airlines,TK,B738,Boeing,P,Turkey
+Turkish Airlines,TK,B739,Boeing,P,Turkey
+Turkish Airlines,TK,B38M,Boeing,P,Turkey
+Turkish Airlines,TK,B39M,Boeing,P,Turkey
+Turkish Airlines,TK,B77W,Boeing,P,Turkey
+Turkish Airlines,TK,B789,Boeing,P,Turkey
+Turkish Airlines,TK,A310,Airbus,F,Turkey
+Turkish Airlines,TK,A332,Airbus,F,Turkey
+Turkish Airlines,TK,B744,Boeing,F,Turkey
+Turkish Airlines,TK,B77L,Boeing,F,Turkey
+United Airlines,UA,A319,Airbus,P,United States
+United Airlines,UA,A320,Airbus,P,United States
+United Airlines,UA,A21N,Airbus,P,United States
+United Airlines,UA,B737,Boeing,P,United States
+United Airlines,UA,B738,Boeing,P,United States
+United Airlines,UA,B739,Boeing,P,United States
+United Airlines,UA,B38M,Boeing,P,United States
+United Airlines,UA,B39M,Boeing,P,United States
+United Airlines,UA,B752,Boeing,P,United States
+United Airlines,UA,B753,Boeing,P,United States
+United Airlines,UA,B763,Boeing,P,United States
+United Airlines,UA,B764,Boeing,P,United States
+United Airlines,UA,B772,Boeing,P,United States
+United Airlines,UA,B773,Boeing,P,United States
+United Airlines,UA,B788,Boeing,P,United States
+United Airlines,UA,B789,Boeing,P,United States
+United Airlines,UA,B78X,Boeing,P,United States
+Uzbekistan Airways,HY,A320,Airbus,P,Uzbekistan
+Uzbekistan Airways,HY,A20N,Airbus,P,Uzbekistan
+Uzbekistan Airways,HY,A21N,Airbus,P,Uzbekistan
+Uzbekistan Airways,HY,A332,Airbus,P,Uzbekistan
+Uzbekistan Airways,HY,B752,Boeing,P,Uzbekistan
+Uzbekistan Airways,HY,B763,Boeing,P,Uzbekistan
+Uzbekistan Airways,HY,B788,Boeing,P,Uzbekistan
+Uzbekistan Airways,HY,L410,Let,P,Uzbekistan
+Uzbekistan Airways,HY,B763,Boeing,F,Uzbekistan
+Vietnam Airlines,VN,A20N,Airbus,P,Vietnam
+Vietnam Airlines,VN,A321,Airbus,P,Vietnam
+Vietnam Airlines,VN,A21N,Airbus,P,Vietnam
+Vietnam Airlines,VN,A359,Airbus,P,Vietnam
+Vietnam Airlines,VN,B789,Boeing,P,Vietnam
+Vietnam Airlines,VN,B78X,Boeing,P,Vietnam
+Virgin Atlantic,VS,A333,Airbus,P,United Kingdom
+Virgin Atlantic,VS,A339,Airbus,P,United Kingdom
+Virgin Atlantic,VS,A35K,Airbus,P,United Kingdom
+Virgin Atlantic,VS,B789,Boeing,P,United Kingdom
+Virgin Australia,VA,B737,Boeing,P,Australia
+Virgin Australia,VA,B738,Boeing,P,Australia
+Virgin Australia,VA,B38M,Boeing,P,Australia
+Virgin Australia,VA,B733,Boeing,F,Australia
+Virgin Australia,VA,B462,British Aerospace,F,Australia
+Vistara,UK,A20N,Airbus,P,India
+Vistara,UK,A21N,Airbus,P,India
+Vistara,UK,B789,Boeing,P,India
+Viva Aerobus,VB,A320,Airbus,P,Mexico
+Viva Aerobus,VB,A20N,Airbus,P,Mexico
+Viva Aerobus,VB,A321,Airbus,P,Mexico
+Viva Aerobus,VB,A21N,Airbus,P,Mexico
+Volaris,Y4,A319,Airbus,P,Mexico
+Volaris,Y4,A320,Airbus,P,Mexico
+Volaris,Y4,A20N,Airbus,P,Mexico
+Volaris,Y4,A321,Airbus,P,Mexico
+Volaris,Y4,A21N,Airbus,P,Mexico
+Volotea,V7,A319,Airbus,P,Spain
+Volotea,V7,A320,Airbus,P,Spain
+Vueling,VY,A319,Airbus,P,Spain
+Vueling,VY,A320,Airbus,P,Spain
+Vueling,VY,A20N,Airbus,P,Spain
+Vueling,VY,A321,Airbus,P,Spain
+Vueling,VY,A21N,Airbus,P,Spain
+WestJet,WS,B737,Boeing,P,Canada
+WestJet,WS,B738,Boeing,P,Canada
+WestJet,WS,B38M,Boeing,P,Canada
+WestJet,WS,B789,Boeing,P,Canada
+WestJet,WS,B738,Boeing,F,Canada
+Wideroe,WF,DH8A,De Havilland,P,Norway
+Wideroe,WF,DH8B,De Havilland,P,Norway
+Wideroe,WF,DH8C,De Havilland,P,Norway
+Wideroe,WF,DH8D,De Havilland,P,Norway
+Wideroe,WF,E290,Embraer,P,Norway
+Wizz Air,W6,A320,Airbus,P,Hungary
+Wizz Air,W6,A20N,Airbus,P,Hungary
+Wizz Air,W6,A321,Airbus,P,Hungary
+Wizz Air,W6,A21N,Airbus,P,Hungary
+XiamenAir,MF,A20N,Airbus,P,China
+XiamenAir,MF,A21N,Airbus,P,China
+XiamenAir,MF,B737,Boeing,P,China
+XiamenAir,MF,B738,Boeing,P,China
+XiamenAir,MF,B38M,Boeing,P,China
+XiamenAir,MF,B788,Boeing,P,China
+XiamenAir,MF,B789,Boeing,P,China
+XiamenAir,MF,B738,Boeing,F,China
+Zipair,,B788,Boeing,P,Japan
+FedEx Express,FX,A306,Airbus,F,United States
+FedEx Express,FX,B752,Boeing,F,United States
+FedEx Express,FX,B763,Boeing,F,United States
+FedEx Express,FX,B77L,Boeing,F,United States
+FedEx Express,FX,MD11,McDonnell Douglas,F,United States
+FedEx Express,FX,AT43,ATR,F,United States
+FedEx Express,FX,AT72,ATR,F,United States
+FedEx Express,FX,AT76,ATR,F,United States
+FedEx Express,FX,C208,Cessna,F,United States
+FedEx Express,FX,C408,Cessna,F,United States
+UPS Airlines,5X,A306,Airbus,F,United States
+UPS Airlines,5X,B744,Boeing,F,United States
+UPS Airlines,5X,B748,Boeing,F,United States
+UPS Airlines,5X,B752,Boeing,F,United States
+UPS Airlines,5X,B763,Boeing,F,United States
+UPS Airlines,5X,MD11,McDonnell Douglas,F,United States
+Atlas Air,5Y,B744,Boeing,P,United States
+Atlas Air,5Y,B763,Boeing,P,United States
+Atlas Air,5Y,B738,Boeing,F,United States
+Atlas Air,5Y,B744,Boeing,F,United States
+Atlas Air,5Y,B748,Boeing,F,United States
+Atlas Air,5Y,B763,Boeing,F,United States
+Atlas Air,5Y,B77L,Boeing,F,United States
+Flux,CV,B744,Boeing,F,Luxembourg
+Flux,CV,B748,Boeing,F,Luxembourg
+Kalitta Air,K4,B744,Boeing,F,United States
+Kalitta Air,K4,B77L,Boeing,F,United States
+DHL,D0,AT43,ATR,F,United Kingdom
+DHL,D0,A306,Airbus,F,United Kingdom
+DHL,D0,A321,Airbus,F,United Kingdom
+DHL,D0,A332,Airbus,F,United Kingdom
+DHL,D0,A333,Airbus,F,United Kingdom
+DHL,D0,B734,Boeing,F,United Kingdom
+DHL,D0,B738,Boeing,F,United Kingdom
+DHL,D0,B748,Boeing,F,United Kingdom
+DHL,D0,B752,Boeing,F,United Kingdom
+DHL,D0,B762,Boeing,F,United Kingdom
+DHL,D0,B763,Boeing,F,United Kingdom
+DHL,D0,B77L,Boeing,F,United Kingdom

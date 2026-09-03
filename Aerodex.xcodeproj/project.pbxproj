@@ -1,0 +1,716 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F92961B22DC1A4A000CFD525 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92961AE2DC1A4A000CFD525 /* ContentView.swift */; };
+		F92961B32DC1A4A000CFD525 /* FakeLoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92961AF2DC1A4A000CFD525 /* FakeLoadingView.swift */; };
+		F92961B42DC1A4A000CFD525 /* AddPlanesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92961B02DC1A4A000CFD525 /* AddPlanesView.swift */; };
+		F92961B62DC3D17900CFD525 /* PlanePhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92961B52DC3D17900CFD525 /* PlanePhoto.swift */; };
+		F92961C22DC7F46800CFD525 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F92961C12DC7F46800CFD525 /* GalleryView.swift */; };
+		F94F67542DC9DC66000B23D9 /* MyFleetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94F67532DC9DC66000B23D9 /* MyFleetView.swift */; };
+		F94F67562DCC64A9000B23D9 /* CarouselPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94F67552DCC64A9000B23D9 /* CarouselPhotoView.swift */; };
+		F94F67582DCD1FD3000B23D9 /* ExpandedPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94F67572DCD1FD3000B23D9 /* ExpandedPhotoView.swift */; };
+		F9688EFC2DA1860E009E7B18 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9688EFB2DA1860E009E7B18 /* Launch Screen.storyboard */; };
+		F9AC7BA02DAC201900499760 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AC7B9F2DAC201900499760 /* ProfileView.swift */; };
+		F9AC7BA22DAC204400499760 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AC7BA12DAC204400499760 /* StatsView.swift */; };
+		F9AC7BA42DAC2B7300499760 /* PlaneDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AC7BA32DAC2B7300499760 /* PlaneDetailView.swift */; };
+		F9AC7BA82DAC306100499760 /* AerodexDatabase.csv in Resources */ = {isa = PBXBuildFile; fileRef = F9AC7BA72DAC306100499760 /* AerodexDatabase.csv */; };
+		F9AC7BAC2DACB13600499760 /* AirlinesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AC7BAB2DACB13600499760 /* AirlinesListView.swift */; };
+		F9AC7BAE2DACB13F00499760 /* ModelsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AC7BAD2DACB13F00499760 /* ModelsListView.swift */; };
+		F9AC7BB42DACB50100499760 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AC7BB32DACB50100499760 /* Model.swift */; };
+		F9AC7BB62DAD8EBA00499760 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9AC7BB52DAD8EBA00499760 /* SettingsView.swift */; };
+		F9D4A9962DB00BFA00452FAB /* PlanesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D4A9952DB00BFA00452FAB /* PlanesListView.swift */; };
+		F9E31B872DA0EF5A00296FAD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9E31B7E2DA0EF5A00296FAD /* Preview Assets.xcassets */; };
+		F9E31B882DA0EF5A00296FAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9E31B822DA0EF5A00296FAD /* Assets.xcassets */; };
+		F9E31B892DA0EF5A00296FAD /* AerodexApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E31B802DA0EF5A00296FAD /* AerodexApp.swift */; };
+		F9E31B8A2DA0EF5A00296FAD /* Airline.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E31B812DA0EF5A00296FAD /* Airline.swift */; };
+		F9E31B8D2DA0EF5A00296FAD /* Plane.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E31B852DA0EF5A00296FAD /* Plane.swift */; };
+		F9E31B8F2DA0EFCD00296FAD /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E31B8E2DA0EFCD00296FAD /* DataService.swift */; };
+		F9FDEE232DCF1F3400911A60 /* InteractiveImageView in Frameworks */ = {isa = PBXBuildFile; productRef = F9FDEE222DCF1F3400911A60 /* InteractiveImageView */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F9E31B4A2D9EFF8A00296FAD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F9E31B312D9EFF8800296FAD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F9E31B382D9EFF8800296FAD;
+			remoteInfo = Aeropedia;
+		};
+		F9E31B542D9EFF8A00296FAD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F9E31B312D9EFF8800296FAD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F9E31B382D9EFF8800296FAD;
+			remoteInfo = Aeropedia;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F92961AE2DC1A4A000CFD525 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F92961AF2DC1A4A000CFD525 /* FakeLoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeLoadingView.swift; sourceTree = "<group>"; };
+		F92961B02DC1A4A000CFD525 /* AddPlanesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPlanesView.swift; sourceTree = "<group>"; };
+		F92961B52DC3D17900CFD525 /* PlanePhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanePhoto.swift; sourceTree = "<group>"; };
+		F92961C12DC7F46800CFD525 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		F94F67532DC9DC66000B23D9 /* MyFleetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFleetView.swift; sourceTree = "<group>"; };
+		F94F67552DCC64A9000B23D9 /* CarouselPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselPhotoView.swift; sourceTree = "<group>"; };
+		F94F67572DCD1FD3000B23D9 /* ExpandedPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandedPhotoView.swift; sourceTree = "<group>"; };
+		F9688EFB2DA1860E009E7B18 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		F9AC7B9F2DAC201900499760 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		F9AC7BA12DAC204400499760 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		F9AC7BA32DAC2B7300499760 /* PlaneDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaneDetailView.swift; sourceTree = "<group>"; };
+		F9AC7BA72DAC306100499760 /* AerodexDatabase.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = AerodexDatabase.csv; sourceTree = "<group>"; };
+		F9AC7BAB2DACB13600499760 /* AirlinesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirlinesListView.swift; sourceTree = "<group>"; };
+		F9AC7BAD2DACB13F00499760 /* ModelsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelsListView.swift; sourceTree = "<group>"; };
+		F9AC7BB32DACB50100499760 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		F9AC7BB52DAD8EBA00499760 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		F9D4A9952DB00BFA00452FAB /* PlanesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanesListView.swift; sourceTree = "<group>"; };
+		F9D4A9A92DB576BD00452FAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F9E31B392D9EFF8800296FAD /* Aerodex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Aerodex.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9E31B492D9EFF8A00296FAD /* AerodexTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AerodexTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9E31B532D9EFF8A00296FAD /* AerodexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AerodexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9E31B7E2DA0EF5A00296FAD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F9E31B802DA0EF5A00296FAD /* AerodexApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AerodexApp.swift; sourceTree = "<group>"; };
+		F9E31B812DA0EF5A00296FAD /* Airline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Airline.swift; sourceTree = "<group>"; };
+		F9E31B822DA0EF5A00296FAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F9E31B852DA0EF5A00296FAD /* Plane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
+		F9E31B8E2DA0EFCD00296FAD /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F9E31B4C2D9EFF8A00296FAD /* AerodexTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = AerodexTests;
+			sourceTree = "<group>";
+		};
+		F9E31B562D9EFF8A00296FAD /* AerodexUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = AerodexUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F9E31B362D9EFF8800296FAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F9FDEE232DCF1F3400911A60 /* InteractiveImageView in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9E31B462D9EFF8A00296FAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9E31B502D9EFF8A00296FAD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F92961B12DC1A4A000CFD525 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F92961AF2DC1A4A000CFD525 /* FakeLoadingView.swift */,
+				F92961AE2DC1A4A000CFD525 /* ContentView.swift */,
+				F94F67532DC9DC66000B23D9 /* MyFleetView.swift */,
+				F92961B02DC1A4A000CFD525 /* AddPlanesView.swift */,
+				F9D4A9952DB00BFA00452FAB /* PlanesListView.swift */,
+				F9AC7BAB2DACB13600499760 /* AirlinesListView.swift */,
+				F9AC7BAD2DACB13F00499760 /* ModelsListView.swift */,
+				F9AC7BA32DAC2B7300499760 /* PlaneDetailView.swift */,
+				F9AC7BA12DAC204400499760 /* StatsView.swift */,
+				F9AC7B9F2DAC201900499760 /* ProfileView.swift */,
+				F92961C12DC7F46800CFD525 /* GalleryView.swift */,
+				F94F67572DCD1FD3000B23D9 /* ExpandedPhotoView.swift */,
+				F94F67552DCC64A9000B23D9 /* CarouselPhotoView.swift */,
+				F9AC7BB52DAD8EBA00499760 /* SettingsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F9D4A9B22DB809F700452FAB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F9E31B302D9EFF8800296FAD = {
+			isa = PBXGroup;
+			children = (
+				F9E31B862DA0EF5A00296FAD /* Aerodex */,
+				F9E31B4C2D9EFF8A00296FAD /* AerodexTests */,
+				F9E31B562D9EFF8A00296FAD /* AerodexUITests */,
+				F9D4A9B22DB809F700452FAB /* Frameworks */,
+				F9E31B3A2D9EFF8800296FAD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F9E31B3A2D9EFF8800296FAD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F9E31B392D9EFF8800296FAD /* Aerodex.app */,
+				F9E31B492D9EFF8A00296FAD /* AerodexTests.xctest */,
+				F9E31B532D9EFF8A00296FAD /* AerodexUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F9E31B7F2DA0EF5A00296FAD /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F9E31B7E2DA0EF5A00296FAD /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F9E31B862DA0EF5A00296FAD /* Aerodex */ = {
+			isa = PBXGroup;
+			children = (
+				F9D4A9A92DB576BD00452FAB /* Info.plist */,
+				F9E31B7F2DA0EF5A00296FAD /* Preview Content */,
+				F9AC7BA72DAC306100499760 /* AerodexDatabase.csv */,
+				F9E31B802DA0EF5A00296FAD /* AerodexApp.swift */,
+				F9E31B822DA0EF5A00296FAD /* Assets.xcassets */,
+				F9688EFB2DA1860E009E7B18 /* Launch Screen.storyboard */,
+				F92961B12DC1A4A000CFD525 /* Views */,
+				F9E31B812DA0EF5A00296FAD /* Airline.swift */,
+				F9E31B852DA0EF5A00296FAD /* Plane.swift */,
+				F9AC7BB32DACB50100499760 /* Model.swift */,
+				F92961B52DC3D17900CFD525 /* PlanePhoto.swift */,
+				F9E31B8E2DA0EFCD00296FAD /* DataService.swift */,
+			);
+			path = Aerodex;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F9E31B382D9EFF8800296FAD /* Aerodex */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F9E31B5D2D9EFF8A00296FAD /* Build configuration list for PBXNativeTarget "Aerodex" */;
+			buildPhases = (
+				F9E31B352D9EFF8800296FAD /* Sources */,
+				F9E31B362D9EFF8800296FAD /* Frameworks */,
+				F9E31B372D9EFF8800296FAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Aerodex;
+			packageProductDependencies = (
+				F9FDEE222DCF1F3400911A60 /* InteractiveImageView */,
+			);
+			productName = Aeropedia;
+			productReference = F9E31B392D9EFF8800296FAD /* Aerodex.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F9E31B482D9EFF8A00296FAD /* AerodexTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F9E31B602D9EFF8A00296FAD /* Build configuration list for PBXNativeTarget "AerodexTests" */;
+			buildPhases = (
+				F9E31B452D9EFF8A00296FAD /* Sources */,
+				F9E31B462D9EFF8A00296FAD /* Frameworks */,
+				F9E31B472D9EFF8A00296FAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F9E31B4B2D9EFF8A00296FAD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F9E31B4C2D9EFF8A00296FAD /* AerodexTests */,
+			);
+			name = AerodexTests;
+			packageProductDependencies = (
+			);
+			productName = AeropediaTests;
+			productReference = F9E31B492D9EFF8A00296FAD /* AerodexTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F9E31B522D9EFF8A00296FAD /* AerodexUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F9E31B632D9EFF8A00296FAD /* Build configuration list for PBXNativeTarget "AerodexUITests" */;
+			buildPhases = (
+				F9E31B4F2D9EFF8A00296FAD /* Sources */,
+				F9E31B502D9EFF8A00296FAD /* Frameworks */,
+				F9E31B512D9EFF8A00296FAD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F9E31B552D9EFF8A00296FAD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F9E31B562D9EFF8A00296FAD /* AerodexUITests */,
+			);
+			name = AerodexUITests;
+			packageProductDependencies = (
+			);
+			productName = AeropediaUITests;
+			productReference = F9E31B532D9EFF8A00296FAD /* AerodexUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F9E31B312D9EFF8800296FAD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					F9E31B382D9EFF8800296FAD = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					F9E31B482D9EFF8A00296FAD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = F9E31B382D9EFF8800296FAD;
+					};
+					F9E31B522D9EFF8A00296FAD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = F9E31B382D9EFF8800296FAD;
+					};
+				};
+			};
+			buildConfigurationList = F9E31B342D9EFF8800296FAD /* Build configuration list for PBXProject "Aerodex" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F9E31B302D9EFF8800296FAD;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				F9FDEE212DCF1F3400911A60 /* XCRemoteSwiftPackageReference "InteractiveImageView" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F9E31B3A2D9EFF8800296FAD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F9E31B382D9EFF8800296FAD /* Aerodex */,
+				F9E31B482D9EFF8A00296FAD /* AerodexTests */,
+				F9E31B522D9EFF8A00296FAD /* AerodexUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F9E31B372D9EFF8800296FAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F9E31B872DA0EF5A00296FAD /* Preview Assets.xcassets in Resources */,
+				F9688EFC2DA1860E009E7B18 /* Launch Screen.storyboard in Resources */,
+				F9AC7BA82DAC306100499760 /* AerodexDatabase.csv in Resources */,
+				F9E31B882DA0EF5A00296FAD /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9E31B472D9EFF8A00296FAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9E31B512D9EFF8A00296FAD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F9E31B352D9EFF8800296FAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F9AC7BA02DAC201900499760 /* ProfileView.swift in Sources */,
+				F9E31B892DA0EF5A00296FAD /* AerodexApp.swift in Sources */,
+				F9E31B8A2DA0EF5A00296FAD /* Airline.swift in Sources */,
+				F9D4A9962DB00BFA00452FAB /* PlanesListView.swift in Sources */,
+				F9AC7BB62DAD8EBA00499760 /* SettingsView.swift in Sources */,
+				F92961B62DC3D17900CFD525 /* PlanePhoto.swift in Sources */,
+				F9E31B8F2DA0EFCD00296FAD /* DataService.swift in Sources */,
+				F9AC7BB42DACB50100499760 /* Model.swift in Sources */,
+				F9AC7BAE2DACB13F00499760 /* ModelsListView.swift in Sources */,
+				F94F67582DCD1FD3000B23D9 /* ExpandedPhotoView.swift in Sources */,
+				F9E31B8D2DA0EF5A00296FAD /* Plane.swift in Sources */,
+				F9AC7BA42DAC2B7300499760 /* PlaneDetailView.swift in Sources */,
+				F9AC7BA22DAC204400499760 /* StatsView.swift in Sources */,
+				F9AC7BAC2DACB13600499760 /* AirlinesListView.swift in Sources */,
+				F92961B22DC1A4A000CFD525 /* ContentView.swift in Sources */,
+				F94F67562DCC64A9000B23D9 /* CarouselPhotoView.swift in Sources */,
+				F92961B32DC1A4A000CFD525 /* FakeLoadingView.swift in Sources */,
+				F92961B42DC1A4A000CFD525 /* AddPlanesView.swift in Sources */,
+				F94F67542DC9DC66000B23D9 /* MyFleetView.swift in Sources */,
+				F92961C22DC7F46800CFD525 /* GalleryView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9E31B452D9EFF8A00296FAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F9E31B4F2D9EFF8A00296FAD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F9E31B4B2D9EFF8A00296FAD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F9E31B382D9EFF8800296FAD /* Aerodex */;
+			targetProxy = F9E31B4A2D9EFF8A00296FAD /* PBXContainerItemProxy */;
+		};
+		F9E31B552D9EFF8A00296FAD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F9E31B382D9EFF8800296FAD /* Aerodex */;
+			targetProxy = F9E31B542D9EFF8A00296FAD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F9E31B5B2D9EFF8A00296FAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F9E31B5C2D9EFF8A00296FAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F9E31B5E2D9EFF8A00296FAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Aerodex/Preview Content\"";
+				DEVELOPMENT_TEAM = K584649JBF;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Aerodex/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Aerodex needs photo access";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = name.KaydenWang.Aerodex;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F9E31B5F2D9EFF8A00296FAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Aerodex/Preview Content\"";
+				DEVELOPMENT_TEAM = K584649JBF;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Aerodex/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Aerodex needs photo access";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = name.KaydenWang.Aerodex;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F9E31B612D9EFF8A00296FAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K584649JBF;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = name.KaydenWang.AeropediaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Aerodex.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Aerodex";
+			};
+			name = Debug;
+		};
+		F9E31B622D9EFF8A00296FAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K584649JBF;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = name.KaydenWang.AeropediaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Aerodex.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Aerodex";
+			};
+			name = Release;
+		};
+		F9E31B642D9EFF8A00296FAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K584649JBF;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = name.KaydenWang.AeropediaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Aeropedia;
+			};
+			name = Debug;
+		};
+		F9E31B652D9EFF8A00296FAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K584649JBF;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = name.KaydenWang.AeropediaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Aeropedia;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F9E31B342D9EFF8800296FAD /* Build configuration list for PBXProject "Aerodex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F9E31B5B2D9EFF8A00296FAD /* Debug */,
+				F9E31B5C2D9EFF8A00296FAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F9E31B5D2D9EFF8A00296FAD /* Build configuration list for PBXNativeTarget "Aerodex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F9E31B5E2D9EFF8A00296FAD /* Debug */,
+				F9E31B5F2D9EFF8A00296FAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F9E31B602D9EFF8A00296FAD /* Build configuration list for PBXNativeTarget "AerodexTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F9E31B612D9EFF8A00296FAD /* Debug */,
+				F9E31B622D9EFF8A00296FAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F9E31B632D9EFF8A00296FAD /* Build configuration list for PBXNativeTarget "AerodexUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F9E31B642D9EFF8A00296FAD /* Debug */,
+				F9E31B652D9EFF8A00296FAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F9FDEE212DCF1F3400911A60 /* XCRemoteSwiftPackageReference "InteractiveImageView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/vospennikov/InteractiveImageView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.1.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F9FDEE222DCF1F3400911A60 /* InteractiveImageView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F9FDEE212DCF1F3400911A60 /* XCRemoteSwiftPackageReference "InteractiveImageView" */;
+			productName = InteractiveImageView;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = F9E31B312D9EFF8800296FAD /* Project object */;
+}
